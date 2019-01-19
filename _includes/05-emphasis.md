@@ -1,4 +1,4 @@
--QA
--Tracking
--Mentor
--Organizated
+- QA
+- Tracking
+- Mentor
+- Organizated
