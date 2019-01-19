@@ -1,1 +1,1 @@
-[GitHub] (https://github.com/Simplitian)
+[GitHub](https://github.com/Simplitian)
