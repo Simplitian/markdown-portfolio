@@ -1,0 +1,4 @@
+- _QA *Game* Tester_
+- *Tracking* Tester
+- Mentor
+- Organizated
